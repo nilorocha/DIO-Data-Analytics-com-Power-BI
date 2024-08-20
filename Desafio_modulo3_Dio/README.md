@@ -18,11 +18,11 @@
 - [X] ~~•Verifique a existência dos nulos e analise a remoção~~
         Foi ajustado os valores nulos 
 - [X] ~~•Os employees com nulos em Super_ssn podem ser os gerentes. Verifique se há algum colaborador sem gerente~~
-	O James estava sem Ssn
+	Ajustado colaboradores sem gerentes
 - [X] ~~•Verifique se há algum departamento sem gerente~~
-	Não há departamento sem gerente
+	Há departamento sem gerente
 - [X] ~~•Se houver departamento sem gerente, suponha que você possui os dados e preencha as lacunas~~
-	Não há departamento sem gerente
+	Ajustado departamento sem gerentes
 - [X] ~~•Verifique o número de horas dos projetos~~
         Há um projeto se horas registrada
 - [X] ~~•Separar colunas complexas~~
